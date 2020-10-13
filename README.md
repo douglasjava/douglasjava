@@ -22,8 +22,8 @@ Um entusiasta de tecnologias principalmente JAVA | JavaScript
 - [x] Junit | Mockito 
 - [x] Tomcat 
 - [x] Swagger 
-- [x] Scrum | DevOps
-- [x] ReactJS | TypeScript | Javascript
+- [x] Scrum 
+- [x] ReactJS | Javascript
 - [x] HTML | CSS
 - [x] Postgres | MySQL | H2 | SQLService | 
 - [x] Docker | Git
