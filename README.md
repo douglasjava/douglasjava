@@ -30,13 +30,6 @@ Um entusiasta de tecnologias principalmente JAVA | JavaScript
 - Estudante de Kubernates
 
 
-## Certificações
-- [SCRUM Foundation Professional Certificate (SFPC) - CertiProf]
-- [DevOps Essentials Professional Certificate (DEPC) - CertiProf]
-- [Spring Framework Expert]
-- [Basic of Strategic Management]
-
-
 ## Postagens e Artigos
 - [Autenticação com ReactJS e Spring](https://www.linkedin.com/pulse/autentica%C3%A7%C3%A3o-com-jwt-spring-boot-e-reactjs-douglas-dias/)
 
