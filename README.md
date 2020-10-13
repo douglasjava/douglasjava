@@ -15,18 +15,19 @@ Um entusiasta de tecnologias principalmente JAVA | JavaScript
 
 
 ## :octocat:  Principais Habilidades
-- [x] Eclipse | IntelliJ IDEA | VSCode | Postman 
-- [x] Java | Java EE
-- [x] Spring Framework | Hibernate 
-- [x] Maven | Gradle
-- [x] Junit | Mockito 
-- [x] Tomcat 
-- [x] Swagger 
-- [x] Scrum 
-- [x] ReactJS | Javascript
-- [x] HTML | CSS
-- [x] Postgres | MySQL | H2 | SQLService | 
-- [x] Docker | Git
+- Eclipse | IntelliJ IDEA | VSCode | Postman 
+- Java | Java EE
+- Spring Framework
+- Maven | Gradle
+- Junit 
+- Tomcat | Jboss 
+- Swagger 
+- Scrum 
+- ReactJS | Javascript
+- HTML | CSS
+- Postgres | MySQL | H2 | SQLService | 
+- Docker | Git
+- Estudante de Kubernates
 
 
 ## Certificações
