@@ -10,8 +10,8 @@
 Um entusiasta de tecnologias principalmente JAVA | JavaScript
 
 ## Formações
-🎓 Formado em Banco de Dados na faculdade Pitagóras em 2012
-🎓 Cursando MBA em Arquitetura de Software - (IGTI - INSTITUTO DE GESTÃO E TECNOLOGIA DA INFORMAÇÃO) - 2020
+- 🎓 Formado em Banco de Dados na faculdade Pitagóras em 2012
+- 🎓 Cursando MBA em Arquitetura de Software - (IGTI - INSTITUTO DE GESTÃO E TECNOLOGIA DA INFORMAÇÃO) - 2020
 
 
 ## :octocat:  Principais Habilidades
