@@ -33,3 +33,7 @@ Um entusiasta de tecnologias principalmente JAVA | JavaScript
 ## Postagens e Artigos
 - [Autenticação com ReactJS e Spring](https://www.linkedin.com/pulse/autentica%C3%A7%C3%A3o-com-jwt-spring-boot-e-reactjs-douglas-dias/)
 
+## Total de Visitas no perfil :detective: <br>
+ <p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/douglasjava/count.svg" />
+ </p>
