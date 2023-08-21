@@ -7,7 +7,7 @@
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5571993410330&text=Olá!)](https://api.whatsapp.com/send?phone=5531995639390&text=Olá!)
 
 
-Um entusiasta de tecnologias principalmente JAVA | JavaScript
+A technology enthusiast
 
 ## Formações
 - 🎓 Formado em Banco de Dados na faculdade Pitagóras em 2012
@@ -27,6 +27,8 @@ Um entusiasta de tecnologias principalmente JAVA | JavaScript
 - HTML | CSS
 - Postgres | MySQL | H2 | SQLService | 
 - Docker | Git
+- Go
+- python
 - Estudante de Kubernates
 
 
