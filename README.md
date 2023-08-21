@@ -28,8 +28,8 @@ A technology enthusiast
 - Postgres | MySQL | H2 | SQLService | 
 - Docker | Git
 - Go
-- python
-- Estudante de Kubernates
+- Python
+- Kubernetes
 
 
 ## Postagens e Artigos
